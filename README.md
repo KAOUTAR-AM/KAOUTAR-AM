@@ -1,6 +1,5 @@
 # 💫 About Me:
 👋 Hi, I’m @KAOUTAR-AM Full stack developer<br>👀 I’m interested in computer science ...<br>🌱 I’m currently learning data science and AI...<br>💞️ I’m looking to collaborate on new projects...<br>📫 How to reach me kaoutaramazzar@gmail.com...<be>
-<img align="right" alt="womentech" width="400" src="https://media0.giphy.com/media/p0jJjV2jyFlkIyj306/giphy.gif?cid=ecf05e479vqho2ao2m7z106ars1yzgyadnn48rf8f48ojulr&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 
 
