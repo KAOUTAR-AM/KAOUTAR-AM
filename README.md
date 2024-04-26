@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @KAOUTAR-AM Full stack developer<br>👀 I’m interested in computer science ...<br>🌱 I’m currently learning data science and AI...<br>💞️ I’m looking to collaborate on new projects...<br>📫 How to reach me kaoutaramazzar@gmail.com...<be>
+👋 Hi, I’m @KAOUTAR-AM Full stack developer<br>👀 I’m interested in computer science ...<br>🌱 I’m currently learning data science and AI...<br>💞️ I’m looking to collaborate on new projects...<br>📫 How to reach me amazzar.consult@gmail.com...<be>
 
 
 
